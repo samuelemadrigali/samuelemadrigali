@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/samuelemadrigali/samuelemadrigali/main/banner.png?raw=true "Header")
+[![Header](https://raw.githubusercontent.com/samuelemadrigali/samuelemadrigali/main/banner.png?raw=true "Header")](https://github.com/samuelemadrigali/)
 
 ## 👋 Hello!
 
