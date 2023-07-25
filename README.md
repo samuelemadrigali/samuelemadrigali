@@ -1,5 +1,7 @@
 ## 👋 Hello!
-I'm an Italian Software Developer & Coding Coach.
+I'm an Italian Full Stack Developer & Coding Coach with 8+ years of experience.
+My main focus is on Front-end development with frameworks like Vuejs and React.
+At the moment I'm working on creating contents to share with the IT community about the latest trends and methods of software development.
 
 ## 💻 Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
