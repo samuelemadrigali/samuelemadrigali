@@ -1,9 +1,13 @@
+![Header](https://raw.githubusercontent.com/samuelemadrigali/samuelemadrigali/main/banner.png?raw=true "Header")
+
 ## 👋 Hello!
+
 I'm an Italian Full Stack Developer & Coding Coach with 8+ years of experience.
 My main focus is on Front-end development with frameworks like Vuejs and React.
 At the moment I'm working on creating contents to share with the IT community about the latest trends and methods of software development.
 
 ## 💻 Technologies & Tools:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -20,11 +24,13 @@ At the moment I'm working on creating contents to share with the IT community ab
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ## 📊 Statistics:
+
 ![](https://github-readme-stats.vercel.app/api?username=samuelemadrigali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 👨‍💻 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-madrigali-a4905a76)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@samuelemadrigali) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@samuelemadrigali)
 
 <!--
 **samuelemadrigali/samuelemadrigali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
